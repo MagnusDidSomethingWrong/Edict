@@ -1,9 +1,9 @@
 p {
    color: red;
 }
-#padding {
+.notPadding {
  padding: 20px;
-border-color: green;
+border-color: red;
     border-width: 10px;
     border-style: solid;
     border-radius: 10px;
